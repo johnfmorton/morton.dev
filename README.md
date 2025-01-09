@@ -1,4 +1,11 @@
-# Sample static website for Traefik
+# Static website for *morton.dev*
+
+[![Laravel Forge Site Deployment Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fforge.laravel.com%2Fsite-badges%2Ffda07f2e-8158-4b64-9015-67c2af393b76%3Fdate%3D1%26label%3D1%26commit%3D1&style=plastic)](https://forge.laravel.com/servers/872762/sites/2581229)
+
+This repo contains a static single page website for morton.dev.
+
+## Original README
+
 
 This repo contains a docker-compose.yml that creates a static website and a Traefik reverse proxy. It was created to test the Traefik reverse proxy with a static website when using Laravel Forge, but it should work for any server that has Docker installed where you are testing Traefik.
 
