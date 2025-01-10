@@ -1,7 +1,5 @@
-version: '3'
-
 services:
-  test-web-server:
+  web-server:
     image: nginx:latest
     restart: always
     volumes:
