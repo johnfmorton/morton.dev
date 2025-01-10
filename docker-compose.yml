@@ -1,5 +1,5 @@
 services:
-  web-server:
+  web-server-morton-dev:
     image: nginx:latest
     restart: always
     volumes:
